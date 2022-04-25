@@ -11,7 +11,7 @@ node problem1.js
 # Problem 2
 ### To run this Project follow below steps
 ```bash
-im unable featch the data frm the api so i created a own api completed a task by hosting the api locally...
+im unable fetch the data frm the api so i created a own api completed a task by hosting the api locally...
 
 cd problem2/
 npm install 
